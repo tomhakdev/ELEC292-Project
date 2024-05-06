@@ -1,5 +1,5 @@
 # ELEC292-Project
-#Contributors:
-#Tom Haklai
-#Nicholas Hum
-#Mira Torbay
+Contributors:
+Tom Haklai
+Nicholas Hum
+Mira Torbay
